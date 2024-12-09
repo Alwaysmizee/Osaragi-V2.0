@@ -5,17 +5,17 @@ const chalk = require('chalk')
 const moment = require('moment-timezone')
 
 //========== Setting Owner ==========//
-global.owner = "6289508082845"
+global.owner = "6283824597488"
 global.idsaluran = "120363201331652484@newsletter"
-global.namaowner = "Koi"
+global.namaowner = "AlwaysMize"
 global.namabot = "おさらぎ"
 global.linkyt = 'https://www.youtube.com/@qyuunee' 
 global.mail = 'cs@neekoi.me' // 
-global.packname = 'Osaragi V2.0'
+global.packname = 'Osaragi V3.0'
 global.author = `Date: ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}\nYouTube: QyuuNee\nBot: 0895-3253-44177`
 //========== Setting Event ==========//
-global.autoread = true
-global.anticall = true
+global.autoread = false
+global.anticall = false
 global.autoreadsw = false
 
 //========== Setting Foto ===========//
@@ -37,10 +37,10 @@ global.apikey = '-' // Isi Apikey Plta Lu
 global.capikey = '-' // Isi Apikey Pltc Lu
 
 //========= Setting Payment =========//
-global.dana = ""
+global.dana = "083824597488"
 global.gopay = ""
 global.ovo = ""
-global.qris = "https://files.catbox.moe/betqkm.jpg"
+global.qris = "Tidak Tersedia"
                              
 
 //========= Setting Message =========//
